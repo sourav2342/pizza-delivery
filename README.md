@@ -1,6 +1,6 @@
 # pizza-delivery
 
-## [` Demo Link `]()
+## [` Demo Link `](https://playful-brigadeiros-5f7d07.netlify.app/)
 
 ## Tech Stack
 
