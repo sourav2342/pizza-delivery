@@ -5,7 +5,7 @@
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-&nbsp;&nbsp;![TailWindCss](https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png)
+&nbsp;&nbsp;![TailWindCss]()
 &nbsp;&nbsp;![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 &nbsp;&nbsp;![React Icons](https://img.shields.io/badge/React_Icons-5588FF?style=for-the-badge&logo=React_Icons&logoColor=black)
 
