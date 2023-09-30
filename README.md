@@ -13,7 +13,7 @@
 
 ## Features
 
--   Project is a Single Page React Application for pizza delivery built with **`React`**. Nodejs is used as the backend and **`React Redux`** is used for remote state management.
+-   Project is a Single Page React Application for pizza delivery built with **`React`**. Nodejs is used as the backend and **`React Redux`** is used for state management.
 
 -    **`Tailwindcss`** is used for styling, **`React Router`** for navigation and routing.
 
