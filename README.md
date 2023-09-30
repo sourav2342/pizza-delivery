@@ -17,5 +17,5 @@
 
 -    **`Tailwindcss`** is used for styling, **`React Router`** for navigation and routing.
 
--   Users can view all the cart, booking and their purchase details, edit their purchases. This app doesn't provide any authentication and has been developed with primary features required for a delivery app.
+-   Users can view all the cart, booking and their purchase details, edit their purchases.
 
